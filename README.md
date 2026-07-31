@@ -55,16 +55,23 @@ Estoy interesado en todas las áreas de la Ciencia de datos, en particular me in
 - 🔹 Limpieza e integración de datos: Estandarización y correcciones en conjuntos de datos.
 
 ---
-
+📂 Algunos Proyectos
+<p align="left">
+  <a href="https://github.com/jcamilo-gaitan/Taller-de-clasificacion---Apache-Spark">
+    <img src="https://img.shields.io/badge/📁_Proyecto-Clasificaci%C3%B3n_--_PySpark-2E9EF7?style=for-the-badge&labelColor=1a1a2e" />
+  </a>
+  <br/><sub>Predecir si un cliente realizará una suscripción a un depósito bancario utilizando variables demográficas, financieras y de interacción con campañas de marketing.</sub>
+</p> <a href="https://github.com/jcamilo-gaitan/RegresLineal"> <img src="https://img.shields.io/badge/📁_Proyecto-Regresión lineal-2E9EF7?style=for-the-badge&labelColor=1a1a2e" /> </a> <br/><sub>En este proyecto se han planteado varios modelos de regresión lineal, mostrando un proceso hasta llegar a un modelo que cumple todos los supuestos teóricos.</sub> </p> <p align="left"> <!-- <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_3"> <img src="https://img.shields.io/badge/📁_Proyecto-Nombre_del_Proyecto_3-2E9EF7?style=for-the-badge&labelColor=1a1a2e" /> </a> <br/><sub>Breve descripción de qué hace este proyecto.</sub> </p>  -->
+  
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jcamilo-gaitan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilo-gaitan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=jcamilo-gaitan&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
